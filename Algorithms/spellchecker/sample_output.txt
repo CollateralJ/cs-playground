@@ -1,0 +1,54 @@
+./a.out usa.txt gears.txt > output.txt
+ICONIC is misspelled
+
+Suggested words
+IRONIC
+
+SCI is misspelled
+
+Suggested words
+SKI
+
+FI is misspelled
+
+Suggested words
+BI
+FA
+FIB
+FIG
+FIN
+FIR
+FIT
+FIX
+FT
+HI
+II
+MI
+PI
+TI
+VI
+XI
+
+FENIX is misspelled
+
+No suggestions
+
+DOMINIC is misspelled
+
+Suggested words
+DOMINICA
+
+ANYA is misspelled
+
+Suggested words
+ANNA
+
+STROUD is misspelled
+
+Suggested words
+SHROUD
+
+GROUNDBREAKING is misspelled
+
+No suggestions
+
