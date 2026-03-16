@@ -8,5 +8,7 @@ Usage:
 Outputs: Path to the exit, or death if there is no possible path.
 
 Example output:
+
 ./a.out rpd.txt nemesis01.txt
+
 ![Output](https://github.com/CollateralJ/cs-playground/blob/main/Algorithms/DFS_mapping/output.png "")
