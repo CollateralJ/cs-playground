@@ -1,0 +1,1139 @@
+Tea Enthusiast Producer/Consumer Problem - Solved by CollateralJ
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf, Spices[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 8 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 8 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 8 is done[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 6 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 6 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 6 is done[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 3 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 3 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 13 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 13 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92mEnthusiast 10 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92m> Enthusiast 10 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 13 is done[0m
+[0;92mEnthusiast 3 is done[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 10 is done[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92mEnthusiast 11 requesting tea with ingredients:
+        Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 0 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;92m> Enthusiast 0 has received their tea[0m
+[0;92m> Enthusiast 11 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 0 is done[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Spices[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;92mEnthusiast 7 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 7 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 7 is done[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 11 is done[0m
+[0;92mEnthusiast 12 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 12 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 9 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 9 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 9 is done[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 12 is done[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 1 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 1 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Puffed Rice[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mPuffed Rice supplier added 9 pouches.[0m
+[0;92mEnthusiast 1 is done[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mGreen Leaf supplier added 8 pouches.[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;31mHibiscus Leaf supplier added 7 pouches.[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mBlack Leaf supplier added 8 pouches.[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;92mEnthusiast 4 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Puffed Rice, Spices[0m
+[0;31mBergamot Oil supplier added 6 pouches.[0m
+[0;92m> Enthusiast 4 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 4 is done[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 2 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 2 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 2 is done[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Bergamot Oil, Hibiscus Leaf, Puffed Rice, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;92mEnthusiast 5 requesting tea with ingredients:
+        Green Leaf, Black Leaf, Bergamot Oil, Hibiscus Leaf, Spices[0m
+[0;92m> Enthusiast 5 has received their tea[0m
+[0;31mSpices supplier added 2 pouches.[0m
+[0;92mEnthusiast 5 is done[0m
+Tea enthusiasts have finished running
+[0;31mGreen Leaf supplier is done[0m
+[0;31mBlack Leaf supplier is done[0m
+[0;31mBergamot Oil supplier is done[0m
+[0;31mHibiscus Leaf supplier is done[0m
+[0;31mPuffed Rice supplier is done[0m
+[0;31mSpices supplier is done[0m
+Suppliers finished running
+Program Complete
