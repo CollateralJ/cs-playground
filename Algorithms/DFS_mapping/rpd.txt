@@ -1,0 +1,25 @@
+MainHall1F Courtyard
+MainHall1F MainHall2F
+
+DarkRoom WestOffice
+
+WestStairway1F DarkRoom
+WestStairway1F EvidenceRoom
+WestStairway1F WindingCorridor
+WestStairway1F WestStairway2F
+
+EvidenceRoom WestOffice
+
+WindingCorridor LCorridor
+WindingCorridor OperationsRoom
+
+OperationsRoom FileStorage
+
+LCorridor FileStorage
+LCorridor WaitingRoom1F
+
+WestOffice MainHall1F
+WestOffice LCorridor
+
+WaitingRoom1F MainHall1F
+

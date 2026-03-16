@@ -1,0 +1,23 @@
+MainHall1F 5
+
+DarkRoom 0
+
+WestStairway1F 5
+
+WindingCorridor 5
+
+OperationsRoom 2
+
+LCorridor 5
+
+FileStorage 4
+
+WestOffice 7
+
+WaitingRoom1F 4
+
+Courtyard 4
+
+EvidenceRoom 2 
+
+MainHall2F 5
