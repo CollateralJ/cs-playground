@@ -11,4 +11,4 @@ Example output:
 
 ./a.out rpd.txt nemesis01.txt
 
-![Output](https://github.com/CollateralJ/cs-playground/blob/main/Algorithms/DFS_mapping/output.png "")
+![Output](https://github.com/CollateralJ/cs-playground/blob/main/Data%20Structures/DFS_mapping/output.png "")

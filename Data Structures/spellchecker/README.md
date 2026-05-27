@@ -10,4 +10,4 @@ g++ (mainVec.cpp/mainMap.cpp)
 
 Outputs: Words it thinks are spelled wrong and suggestions for fixes. The vector implementation should take noticeably longer to output.
 
-Check out this [example output](https://github.com/CollateralJ/cs-playground/blob/main/Algorithms/spellchecker/sample_output.txt).
+Check out this [example output](https://github.com/CollateralJ/cs-playground/blob/main/Data%20Structures/spellchecker/sample_output.txt).
