@@ -1,0 +1,41 @@
+4
+10
+368
+
+Maze before searching
+xxxxx
+x xox
+x x x
+x   x
+xxxxx
+Starting at pos (1, 1)
+Goal found!
+
+Maze before searching
+xxxxxxxx
+     x  
+xxxx x x
+x  x x x
+xo x x x
+x  x x x
+x  xxx x
+x      x
+x      x
+xxxxxxxx
+Starting at pos (4, 5)
+Goal found!
+
+Maze before searching
+xxxxxxxx
+        
+xxxx x x
+x  x x x
+xo x x x
+x  x x x
+xxxxxx x
+x      x
+x      x
+xxxxxxxx
+Starting at pos (4, 5)
+Goal not found...
+
