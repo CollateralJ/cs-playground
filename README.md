@@ -5,7 +5,7 @@ This repo is designed to display any of my more interesting or meaningful comput
 
 ### Some of my favorites
 
-[Spellchecker comparing C++ unordered maps to vectors](https://github.com/CollateralJ/cs-playground/blob/main/Algorithms/tva_timeline_linked_list)
+[Spellchecker comparing C++ unordered maps to vectors](https://github.com/CollateralJ/cs-playground/blob/main/Algorithms/spellchecker)
 
 [Tea enthusiast producer/consumer synchronization problem](https://github.com/CollateralJ/cs-playground/blob/main/Concurrency/tea_enthusiasts_problem)
 
